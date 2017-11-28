@@ -4,7 +4,7 @@
 * Automates software building process at Cengage Learning by using Python and Selenium.
 
 ## Demo
-* You can view the bot demo presentation [here](https://cengage.zoom.us/recording/play/zdYJqM7eiqkfsNdxHzgPMfJ4iAkDue_TbG4obGTZct8mr7N8TEoFZeU6YDrtozSX).
+* You can view the short video of the bot [here](https://www.screencast.com/t/nVq1PHz0y5W).
 
 ## Source
-You can view the source code [here](/source).
+The source code is kept private for legal reasons. Please shoot me an email if you want to take a peek.
